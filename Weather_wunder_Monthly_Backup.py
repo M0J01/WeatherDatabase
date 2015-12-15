@@ -15,39 +15,24 @@ __author__ = 'Jo'
 import urllib2
 import json
 
-Airport_Names = [ 'Ronald Reagan Washingtion National',
-                  'Johnson Field Onancock VA',
-                  'Easton Newnam Field Airport VA',
-                  'New London Forest Virginia',
-                  'Bush Airport WoolWine VA',
-                  'Twin County Galax Hillsville VA',
-                  'Grundy Municipal Airport VA',
-                  'Lee County Jonesville VA',
-                  'Cottonwood Farm Crozet VA',
-                  'Stokes Airport Goochland VA',
-                  'Orange County Airport Orange VA',
-                  'Fox Acres Airport Warrenton VA'
-
-
-
-
+Airport_Names = ['Richmond International Airport',
+                 'Norfolk International Airport',
+                 'Washington Dulles International Airport',
+                 'New London Forest Virginia',
+                 'Bush Airport WoolWine VA',
+                 'Twin County Galax Hillsville VA',
+                 'Grundy Municipal Airport VA',
+                 'Lee County Jonesville VA'
                  ]
 
-airport_list = [ 'KDCA',
-                 'VA91',
-                 'KESN',
-                 'KW90',
-                 '6AV9',
-                 'KHLX',
-                 'KGDY',
-                 'K0VG',
-                 '87VA',
-                 'VA15',
-                 'KOHM',
-                 '15VA'
-
-
-
+airport_list = ['KRIC',
+                'KORF',
+                'KIAD',
+                'KW90',
+                '6AV9',
+                'KHLX',
+                'KGDY',
+                'K0VG'
 
 
 

@@ -1,0 +1,5 @@
+P,S,T,
+M,a,x, ,T,e,m,p,e,r,a,t,u,r,e,F,
+M,e,a,n, ,T,e,m,p,e,r,a,t,u,r,e,F,
+M,i,n, ,T,e,m,p,e,r,a,t,u,r,e,F,
+6,A,V,9,
